@@ -12,5 +12,5 @@ I currently write exclusively in Java however some other languages I've known ov
 - Lua
 - C#
 
-##Current Projects
+## Current Projects
 Currently I'm working on two seperate minecraft servers as a developer. They are Enfinium and Galaxico.
