@@ -1,16 +1,16 @@
-### Hi there 👋
+# Welcome to my Page!
 
-<!--
-**Colink02/Colink02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What Do I Do?
+Currently I'm a college student working on a general education degree before moving on to either a Software Development degree or something close to it.
 
-Here are some ideas to get you started:
+## Current Programming Languages
+I currently write exclusively in Java however some other languages I've known over the years are as follows:
+- Java
+- HTML
+- JavaScript
+- CSS
+- Lua
+- C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Current Projects
+Currently I'm working on two seperate minecraft servers as a developer. They are Enfinium and Galaxico.
