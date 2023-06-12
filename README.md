@@ -1,7 +1,7 @@
 # Welcome to my Page!
 
 ## What Do I Do?
-Currently I'm a college student working on a Software Development Associates degree. I also work on the Enfinium Minecraft Network, working with creators with their servers and build our main Minigame network. 
+Currently I'm a freelance Software Developer with a Associates in Software Development. I also work on the Enfinium Minecraft Network, working with creators with their servers and build our main Minigame network. 
 
 ## Current Programming Languages
 I currently write exclusively in Java however some other languages I've known over the years are as follows:
